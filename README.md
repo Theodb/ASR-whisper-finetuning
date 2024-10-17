@@ -1,6 +1,6 @@
 # Fine-Tuning Whisper Model with LoRA
 
-This repository contains scripts for fine-tuning the [Whisper-large-v3](https://huggingface.co/distil-whisper/distil-large-v3) model on a specific language using Low-Rank Adaptation (LoRA) and evaluating the fine-tuned model. The scripts are optimized to run efficiently on GPUs and are designed to function without the need to produce a final trained model.
+This repository contains scripts for fine-tuning the distilled [Whisper-large-v3](https://huggingface.co/distil-whisper/distil-large-v3) model on a specific language using Low-Rank Adaptation (LoRA) and evaluating the fine-tuned model. The scripts are optimized to run efficiently on GPUs and are designed to function without the need to produce a final trained model.
 
 ## Table of Contents
 
