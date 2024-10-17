@@ -30,7 +30,7 @@ The **French Fleurs** dataset includes:
 - Transcriptions in French.
 - A manageable dataset size for testing (14 hours).
 
-While the Fleurs dataset was useful for testing, it would be more suitable to run the model on larger and more domain-specific datasets, especially for commercial applications related to French call centers. Potential datasets include:
+While the Fleurs dataset was useful for testing, it would be more suitable to run the model on larger and more domain-specific datasets. Potential datasets include:
 
 - **Common Voice 17.0**: A large collection of voice data from volunteers worldwide.
 - **VoxPopuli**: Multilingual speech corpus with extensive French recordings.
